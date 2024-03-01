@@ -1,4 +1,4 @@
-<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/naiveHobo/InvoiceNet/blob/main/_images/logo.png"><img src="/naiveHobo/InvoiceNet/raw/main/_images/logo.png" alt="发票网标志" style="max-width: 100%;"></a></p>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/naiveHobo/InvoiceNet/blob/main/_images/logo.png"><img src="https://github.com/naiveHobo/InvoiceNet/raw/main/_images/logo.png" alt="发票网标志" style="max-width: 100%;"></a></p>
 <hr>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度神经网络从发票文档中提取智能信息。</font></font></p>
 <p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">长话短说</font></font></strong></p>
@@ -12,7 +12,7 @@
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">InvoiceNet 徽标由</font></font><a href="https://www.linkedin.com/in/sidhant-tibrewal-864058148/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sidhant Tibrewal</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设计。
 </font></font><a href="https://www.behance.net/tiber_sid" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">看看</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">他的作品，寻找一些更漂亮的设计。</font></font></p>
 <hr>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/naiveHobo/InvoiceNet/blob/main/_images/invoicenet.png"><img src="/naiveHobo/InvoiceNet/raw/main/_images/invoicenet.png" alt="发票网" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/naiveHobo/InvoiceNet/blob/main/_images/invoicenet.png"><img src="https://github.com/naiveHobo/InvoiceNet/raw/main/_images/invoicenet.png" alt="发票网" style="max-width: 100%;"></a></p>
 <hr>
 <p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">免责声明</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">某些普通发票字段的预训练模型目前尚不可用，但很快就会提供。</font><font style="vertical-align: inherit;">训练 GUI 和数据准备脚本已经可用。</font></font></p>
